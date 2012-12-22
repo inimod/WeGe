@@ -25,10 +25,11 @@ filegloblist: *.c
 fb_focus_follow: 1
 adv_open_recursive: 0
 recent_dirs: file:///home/inimod/public_html/WeGe
+recent_dirs: file:///home/inimod/public_html/WeGe/home
 encoding: ISO-8859-1
 autoindent: 1
 e2c.convert_special: 0
-fb_viewmode: 0
+fb_viewmode: 2
 htmlbar_view: 1
 snippets_show_as_menu: 1
 bookmarks_show_mode: 0
@@ -41,12 +42,16 @@ htmlbar_notebooktab: 0
 last_filefilter: 
 spell_insert_entities: 0
 spell_check_default: 0
-savedir: file:///home/inimod/public_html/WeGe
+savedir: file:///home/inimod/public_html/WeGe/styles
 files: /home/inimod/public_html/WeGe/home/index.php
-files: /home/inimod/public_html/WeGe/index.php
+files: /home/inimod/public_html/WeGe/styles/home.css
+files: /home/inimod/public_html/WeGe/README.md
 snr_replacetype: 0
-recent_files: file:///home/inimod/public_html/WeGe/index.php
+recent_files: file:///home/inimod/public_html/WeGe/README.md
+recent_files: file:///home/inimod/public_html/WeGe/styles/home.css
 recent_files: file:///home/inimod/public_html/WeGe/home/index.php
+recent_files: file:///home/inimod/public_html/WeGe/styles/base.css
+recent_files: file:///home/inimod/public_html/WeGe/index.php
 webroot: http://localhost/GeRICOS-dev
 charmap_block: 1
 e2c.convert_iso: 0
@@ -66,7 +71,7 @@ c2e.convert_iso: 0
 bookmarks_filename_mode: 0
 documentroot: file:///home/inimod/public_html/GeRICOS-dev
 wrap_text_default: 0
-opendir: file:///home/inimod/public_html/WeGe/home
+opendir: file:///home/inimod/public_html/WeGe
 e2c.convert_xml: 1
 default_mime_type: text/plain
 view_left_panel: 1

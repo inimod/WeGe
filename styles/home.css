@@ -1,0 +1,52 @@
+html {
+	margin: 0px;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	right: 0px;
+	bottom: 0px;
+	border: 1px black solid;
+	background: white;
+	}
+body {
+	margin: 10;
+	top: 0px;
+	left: 0px;
+	right: 0px;
+	bottom: 0px;	
+	color: deepskyblue;
+	border: 0px black solid;
+	position: absolute;
+	/*background: whitesmoke;*/
+	background-color: transparent;
+	font-family: arial;
+	}
+
+#tete {
+	position: absolute;
+	border: 1px gray solid;
+	width: 100%;
+	top: 0px;
+	background: whitesmoke;
+	text-align: left;
+	font-weight: bold;
+		}
+		
+#corps {
+	position: absolute;
+	border: 1px deepskyblue solid;
+	width: 100%;
+	bottom: 30px;
+	top:30px;
+	background: black;
+	overflow: auto;
+	}
+	
+#pieds {
+	position: absolute;
+	border: 1px gray solid;
+	width: 100%;
+	bottom: 0px;
+	background: whitesmoke;
+	text-align: center;
+	}

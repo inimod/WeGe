@@ -8,7 +8,11 @@
 </head>
 <body>
 <div id="tete">
+<<<<<<< HEAD
 <img src="../styles/bebe.jpg" alt="WeGe" class="image_titre" >WeGe
+=======
+Tête vide
+>>>>>>> 9b03f9aa45926a4970d6c128cdb99cc3bad0587c
 </div>
 <div id="corps">
 Ceci est le corps de texte qu'il faudra soigner...

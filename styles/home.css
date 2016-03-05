@@ -32,6 +32,7 @@ body {
 	font-weight: bold;
 		}
 		
+<<<<<<< HEAD
 .image_titre {
 	vertical-align: middle;
 	width: 20px;
@@ -39,6 +40,8 @@ body {
 	
 	}
 	
+=======
+>>>>>>> 9b03f9aa45926a4970d6c128cdb99cc3bad0587c
 #corps {
 	position: absolute;
 	border: 1px deepskyblue solid;
